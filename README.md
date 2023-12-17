@@ -1,1 +1,3 @@
-# this is the Readme for this projrct
+# 0x19. C - Stacks, Queues - LIFO, FIFO
+
+
